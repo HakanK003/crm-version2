@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="nextbaseCRM">
+
+
+    <test name="Regression">
+        <classes>
+            <class name="com.nextbasecrm.tests.US01"/>
+            <class name="com.nextbasecrm.tests.US02"/>
+            <class name="com.nextbasecrm.tests.US03"/>
+            <class name="com.nextbasecrm.tests.US04"/>
+            <class name="com.nextbasecrm.tests.US05"/>
+            <class name="com.nextbasecrm.tests.US06"/>
+            <class name="com.nextbasecrm.tests.US07"/>
+            <class name="com.nextbasecrm.tests.US08"/>
+            <class name="com.nextbasecrm.tests.US09"/>
+            <class name="com.nextbasecrm.tests.US10"/>
+            <class name="com.nextbasecrm.tests.US11"/>
+            <class name="com.nextbasecrm.tests.US12"/>
+            <class name="com.nextbasecrm.tests.US13_HK"/>
+            <class name="com.nextbasecrm.tests.US14"/>
+        </classes>
+    </test>
+
+
+
+</suite>
